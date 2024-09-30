@@ -1,3 +1,3 @@
-for run this project.......\n
+for run this project.......
 installing flet package in python
 open cmd and type pip install flet
